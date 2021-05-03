@@ -1,5 +1,5 @@
 # webpack-js-bundle
-A boiler-plate project for compiling a js+css source to one bundle file.<br/>
+A boiler-plate project for compiling a js + css source code to one bundle file.<br/>
 The goal of this boiler-plate is to create a framework-less SPA with an injected JS code compiled from an entry-point with modules.
 
 **Usage**
