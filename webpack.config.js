@@ -7,7 +7,7 @@ module.exports = {
     filename: 'bundle.js',
   },
   mode: 'production',
-  target: ['web', 'node'],
+  target: ['node'],
   module: {
     rules: [
       {
