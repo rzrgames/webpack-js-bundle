@@ -7,7 +7,7 @@ module.exports = {
     filename: 'bundle.js',
   },
   mode: 'production',
-  target: ['es5'],
+  target: ['web', 'node'],
   module: {
     rules: [
       {
